@@ -1,0 +1,86 @@
+<div class="section-one swiper-container w-full">
+    <!-- swiper slides -->
+    <div class="swiper-wrapper">
+        <div class="swiper-slide flex items-center justify-center flex-col relative text-white swiper-slide-1 bg-top">
+            <div class="caption-container">
+                <div class="caption">
+                    <span class="caption-mini uppercase">Propertie<span class="text-red-500">s</span>/<span
+                            class="text-red-500">M</span></span>
+                    <h1 class="text-xl text-lg sm:text-xl md:text-2xl lg:text-4xl font-semibold capitalize">No Job Too Big</h1>
+                    <p class="font-light text-justify mt-4 mb-5">We are proud to offer a full range of services for your construction or repair needs. View our many services by clicking (view services) below.</p>
+                    <a href="#services"
+                        class="button primary-bg-color inline-block py-3 px-10 text-white font-light rounded no-underline btn-animated">View
+                        Services</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="swiper-slide flex items-center justify-center flex-col relative text-white swiper-slide-2 bg-top">
+            <div class="caption-container">
+                <div class="caption">
+                    <span class="caption-mini uppercase">Propertie<span class="text-red-500">s</span>/<span
+                            class="text-red-500">M</span></span>
+                    <h1 class="text-lg sm:text-xl md:text-2xl lg:text-4xl font-semibold">Electrical</h1>
+                    <p class="font-light text-justify mt-4 mb-5">Licensed with years of experience, our knowledgeable electricians know the latest in code regulations, voltage use, panel installation and troubleshooting. Register today.</p>
+                    <a href="#services"
+                        class="button primary-bg-color inline-block py-3 px-10 text-white font-light rounded no-underline btn-animated">View
+                        Services</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="swiper-slide flex items-center justify-center flex-col relative text-white swiper-slide-3 bg-top">
+            <div class="caption-container">
+                <div class="caption">
+                    <span class="caption-mini uppercase">Propertie<span class="text-red-500">s</span>/<span
+                            class="text-red-500">M</span></span>
+                    <h1 class="text-lg sm:text-3xl lg:text-4xl font-semibold">Landscaping</h1>
+                    <p class="font-light text-justify mt-4 mb-5">Sculpting and cultivating lawn care and installation fencing to décor layout, we know tranquil. Complete with weed and pest control. We understand curb appeal.</p>
+                    <a href="#services"
+                        class="button primary-bg-color inline-block py-3 px-10 text-white font-light rounded no-underline btn-animated">View
+                        Services</a>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-slide flex items-center justify-center flex-col relative text-white swiper-slide-4 bg-top">
+            <div class="caption-container">
+                <div class="caption">
+                    <span class="caption-mini uppercase">Propertie<span class="text-red-500">s</span>/<span
+                            class="text-red-500">M</span></span>
+                    <h1 class="text-lg sm:text-3xl lg:text-4xl font-semibold">Construction</h1>
+                    <p class="font-light text-justify mt-4 mb-5">From Bonded &amp; Licensed contractors to Handyman repairs, we get the job done. <a href="/contact-us" class="text-decoration-none">Contact us</a>  today.</p>
+                    <a href="#services"
+                        class="button primary-bg-color inline-block py-3 px-10 text-white font-light rounded no-underline btn-animated">View
+                        Services</a>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-slide flex items-center justify-center flex-col relative text-white swiper-slide-5 bg-top">
+            <div class="caption-container">
+                <div class="caption">
+                    <span class="caption-mini uppercase">Propertie<span class="text-red-500">s</span>/<span
+                            class="text-red-500">M</span></span>
+                    <h1 class="text-lg sm:text-3xl lg:text-4xl font-semibold">Painting</h1>
+                    <p class="font-light text-justify mt-4 mb-5">Our painters are hue and paint experts which use quality products to suit the client's desires.</p>
+                    <a href="#services"
+                        class="button primary-bg-color inline-block py-3 px-10 text-white font-light rounded no-underline btn-animated">View
+                        Services</a>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-slide flex items-center justify-center flex-col relative text-white swiper-slide-6 bg-top">
+            <div class="caption-container">
+                <div class="caption">
+                    <span class="caption-mini uppercase">Propertie<span class="text-red-500">s</span>/<span
+                            class="text-red-500">M</span></span>
+                    <h1 class="text-lg sm:text-3xl lg:text-4xl font-semibold">Plumbing</h1>
+                    <p class="font-light text-justify mt-4 mb-5">Our licensed plumbers are timely, clean, and well required for all your major and minor plumbing needs. Camera detection leaks clogs, we do it all. Get a quote today!</p>
+                    <a href="#services"
+                        class="button primary-bg-color inline-block py-3 px-10 text-white font-light rounded no-underline btn-animated">View
+                        Services</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- !swiper slides -->
+</div>

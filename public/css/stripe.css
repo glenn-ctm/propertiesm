@@ -1,0 +1,90 @@
+/* .stripe-payment-form.stripe-payment {
+    background-color: transparent;
+} */
+
+/* .stripe-payment-form.stripe-payment * {
+    font-family: Quicksand, Open Sans, Segoe UI, sans-serif;
+} */
+
+/* 
+.stripe-payment-form.stripe-payment .field.focus,
+.stripe-payment-form.stripe-payment .field:focus {
+    background-color: #f6f9fc;
+}
+
+.stripe-payment-form.stripe-payment .field.invalid {
+    background-color: #fa755a;
+}
+
+.stripe-payment-form.stripe-payment .field.invalid.focus {
+    background-color: #f6f9fc;
+}
+
+.stripe-payment-form.stripe-payment input {
+    color: #fff;
+}
+
+.stripe-payment-form.stripe-payment .error svg .base {
+    fill: #fa755a;
+}
+
+.stripe-payment-form.stripe-payment .error svg .glyph {
+    fill: #fff;
+}
+
+.stripe-payment-form.stripe-payment .error .message {
+    color: #fff;
+}
+
+.stripe-payment-form.stripe-payment .success .icon .border {
+    stroke: #fcd669;
+}
+
+.stripe-payment-form.stripe-payment .success .icon .checkmark {
+    stroke: #fff;
+}
+
+.stripe-payment-form.stripe-payment .success .title {
+    color: #fff;
+}
+
+.stripe-payment-form.stripe-payment .success .message {
+    color: #9cabc8;
+}
+
+.stripe-payment-form.stripe-payment .success .reset path {
+    fill: #fff;
+} */
+
+/* START OF UI AND STRUCTURE OF THE STRIPE FORM */
+.stripe-payment-form.stripe-payment .field {
+    padding: 10px 20px 11px;
+    background-color: #ffffff;
+    width: 100%;
+    border-width: 1px;
+    border-radius: 0.25rem;
+}
+
+.stripe-payment-form.stripe-payment .fieldset {
+    padding: 0;
+    border-style: none;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.stripe-payment-form.stripe-payment .field.half-width {
+    width: calc(50% - (5px / 2));
+}
+
+.stripe-payment-form.stripe-payment .field.third-width {
+    width: calc(50% - (5px / 3));
+}
+
+.stripe-payment-form.stripe-payment .field + .field {
+    margin-top: 6px;
+}
+/* END OF UI AND STRUCTURE OF THE STRIPE FORM */

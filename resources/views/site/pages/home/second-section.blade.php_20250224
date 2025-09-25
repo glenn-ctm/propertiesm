@@ -1,0 +1,19 @@
+<div class="second-section">
+    <div class="flex flex-wrap">
+        <div class="w-full md:w-1/1 lg:w-1/2 column-1">
+            <div class="flex bg-gray-200 text-gray-700 items-center justify-center"></div>
+        </div>
+
+        <div class="w-full md:w-1/1 lg:w-1/2">
+            <div class="primary-bg-color items-center justify-center px-8 py-12 sm:py-32 sm:px-20 text-white">
+                <div class="block">
+                    <h3 class="italic text-2xl sm:text-3xl font-hairline mb-5">“We provide Installations, Upgrades, Maintenance, Landscaping & more.”</h3>
+                    <p class="font-hairline text-sm text-white mb-10 tracking-wide">Properties/m has extensive experience in both the commercial & residential fields.</p>
+                    <a href="/about-us" class="transition duration-500 ease-in-out bg-transparent border border-white-500 text-white py-2 px-4 text-white rounded no-underline hover:border-transparent hover:bg-red-700">
+                        Read More
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

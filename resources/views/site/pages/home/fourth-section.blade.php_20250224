@@ -1,0 +1,75 @@
+<div class="section-four container-fluid flex flex-wrap" id="services">
+    <div class="card relative inline-block text-left w-full md:w-1/1 lg:w-1/4">
+        <div class="front overflow-hidden absolute text-white bg-cover bg-no-repeat inset-0" style="background-image: url('/static/home/maintenance.jpg')">
+            <div class="font-lato p-4 pb-8 absolute right-0 left-0 bottom-0">
+                <h2 class="m-0 p-0 font-semibold text-3xl text-center">Maintenance</h2>
+            </div>
+        </div>
+        <div class="flex flex-col justify-center back py-8 overflow-hidden absolute text-white bg-cover bg-no-repeat inset-0 text-center" style="background-image: linear-gradient(#000000a6, #000000a6),url('/static/home/maintenance.jpg')">
+            <ul class="maintenance-list font-light">
+                <li class="py-2"><a href="/services/plumbing">Plumbing<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/electrical">Electrical<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/carpentry">Carpentry<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/drywall">Drywall<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/painting">Painting<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/doors">Doors<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/windows">Windows<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/ceilings">Ceilings<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/flooring">Flooring<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/appliance-repairs-new-installation">Appliance Repairs/New Installation<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/roofing">Roofing<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/carpet-cleaning">Carpet Cleaning<span> &rarr;</span></a></li>
+                <li class="py-2"><a href="/services/exterior-structure">Exterior Structure<span> &rarr;</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="card relative inline-block text-left w-full md:w-1/1 lg:w-1/4">
+        <div class="front overflow-hidden absolute text-white bg-cover bg-no-repeat inset-0" style="background-image: url('/static/home/lawn-mower.jpg')">
+               <div class="font-lato p-4 pb-8 absolute right-0 left-0 bottom-0">
+                <h2 class="m-0 p-0 font-semibold text-3xl text-center">Landscaping</h2>
+            </div>
+        </div>
+        <div class="flex flex-col justify-center back p-8 overflow-hidden absolute text-white bg-cover bg-no-repeat inset-0 text-center" style="background-image: linear-gradient(#000000a6, #000000a6),url('/static/home/lawn-mower.jpg')">
+            <ul class="font-light leading-10">
+                <li><a href="/services/gardening">Gardening<span> &rarr;</span></a></li>
+                <li><a href="/services/springkler-systems">Springkler Systems<span> &rarr;</span></a></li>
+                <li><a href="/services/tree-trimming-removal-installation">Tree Trimming<span> &rarr;</span></a></li>
+                <li><a href="/services/retaining-walls">Retaining Wall<span> &rarr;</span></a></li>
+                <li><a href="/services/fencing">Fencing<span> &rarr;</span></a></li>
+                <li><a href="/services/concrete">Concrete<span> &rarr;</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="card relative inline-block text-left w-full md:w-1/1 lg:w-1/4">
+        <div class="front overflow-hidden absolute text-white bg-cover bg-no-repeat inset-0" style="background-image:url('/static/home/property-inspections.jpg')">
+              <div class="font-lato p-4 pb-8 absolute right-0 left-0 bottom-0">
+                <h2 class="m-0 p-0 font-semibold text-3xl text-center">Manangement Services</h2>
+            </div>
+        </div>
+        <div class="flex flex-col justify-center back p-8 overflow-hidden absolute text-white bg-cover bg-no-repeat inset-0 text-center" style="background-image:linear-gradient(#000000a6, #000000a6),url('/static/home/property-inspections.jpg')">
+            <ul class="font-light leading-10">
+                <li><a href="/services/rent-collection">Rent Collection<span> &rarr;</span></a></li>
+                <li><a href="/services/tenant-occupancy">Tenant Occupancy<span> &rarr;</span></a></li>
+                <li><a href="/services/evictions">Evictions<span> &rarr;</span></a></li>
+                <li><a href="/services/monthly-statements">Monthly Statements<span> &rarr;</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="card relative inline-block text-left w-full md:w-1/1 lg:w-1/4">
+        <div class="front overflow-hidden absolute text-white bg-cover bg-no-repeat inset-0" style="background-image:url('/static/home/inspections.jpg')">
+              <div class="font-lato p-4 pb-8 absolute right-0 left-0 bottom-0">
+                <h2 class="m-0 p-0 font-semibold text-3xl text-center">Inspections</h2>
+            </div>
+        </div>
+        <div class="flex flex-col justify-center back p-8 overflow-hidden absolute text-white bg-cover bg-no-repeat inset-0 text-center" style="background-image:linear-gradient(#000000a6, #000000a6),url('/static/home/inspections.jpg')">
+            <ul class="font-light leading-10">
+                <li><a href="/services/locks">Locks<span> &rarr;</span></a></li>
+                <li><a href="/services/seals">Seals<span> &rarr;</span></a></li>
+                <li><a href="/services/leaks">Leaks<span> &rarr;</span></a></li>
+                <li><a href="/services/smoke-detector">Smoke Detector<span> &rarr;</span></a></li>
+                <li><a href="/services/extermination">Infestations<span> &rarr;</span></a></li>
+                <li><a href="/services/site-check">Site Checks<span> &rarr;</span></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
